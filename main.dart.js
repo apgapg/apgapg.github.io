@@ -38668,7 +38668,7 @@ u=u[3]
 return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.Cj.prototype={
 H:function(a){var u=null,t=X.Qw(u,"Nunito",C.k8,C.k),s=X.Qw(u,"Nunito",C.k8,C.k)
-return new S.p2(new X.ox(D.Xy(),u),"Flutter Demo",t,s,!1,u)}};(function aliases(){var u=H.o8.prototype
+return new S.p2(new X.ox(D.Xy(),u),"Ayush P Gupta",t,s,!1,u)}};(function aliases(){var u=H.o8.prototype
 u.Ae=u.p
 u=H.q7.prototype
 u.AZ=u.aF
